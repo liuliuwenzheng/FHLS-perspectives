@@ -1,0 +1,1 @@
+/workspace/FHLS-perspectives-batches/bilingual/n00.json
