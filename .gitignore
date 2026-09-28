@@ -1,0 +1,10 @@
+*.pdf
+*.bin
+*.zip
+*.html
+*.log
+.hermes_run.log
+.env
+.env.*
+__pycache__/
+.DS_Store
