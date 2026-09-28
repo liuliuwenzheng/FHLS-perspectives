@@ -18,7 +18,7 @@ Global <br>
 
 ## Known Risks and Mitigations: <br>
 Risk: Generated perspective skills may be mistaken for the real person's views or overstate what public information can support. <br>
-Mitigation: Keep a visible simulated-perspective label, preserve honesty boundaries, and review the generated research and SKILL.md before enabling generated skills. <br>
+Mitigation: Keep a visible simulated-perspective label, preserve honesty boundaries, and review the generated research and SKILL.md before enabling the skill. <br>
 Risk: Broad triggers or persona behavior could steer an agent into unsuitable regulated, financial, account, purchase, or private-data workflows. <br>
 Mitigation: Narrow activation triggers and avoid using generated personas for regulated advice or actions involving money, accounts, purchases, or private personal data. <br>
 Risk: Research-based outputs can include incorrect, stale, or misleading claims about a person or topic. <br>
